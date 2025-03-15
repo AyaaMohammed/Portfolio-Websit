@@ -22,7 +22,7 @@ This is a personal portfolio website for Aya, a Full Stack .NET Developer. The w
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/AyaaMohammed/Portfolio-Websit.git
    ```
 2. Navigate to the project folder:
    ```sh
